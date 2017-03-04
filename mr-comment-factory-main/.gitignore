@@ -1,0 +1,17 @@
+*.class
+*.log
+*.bak
+*.old
+*.ser
+*.sbt
+
+bin
+target
+build
+dists
+out
+
+.settings
+.classpath
+.project
+.cache-main
